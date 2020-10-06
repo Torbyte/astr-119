@@ -1,0 +1,2 @@
+S = "Nathan"
+print(S)
