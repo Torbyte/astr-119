@@ -1,2 +1,0 @@
-S = "Nathan"
-print(S)
