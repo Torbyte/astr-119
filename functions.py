@@ -11,7 +11,7 @@ def show_expo(n):
 		print(expo(float(i)))
 
 #define a main function
-def(main):
+def main():
 	n = 10
 	#check if there is a main line argument
 	if(len(sys.argv)>1):
@@ -20,5 +20,5 @@ def(main):
 
 	print("the value of n is ",n)
 	print('the value of argv is',sys.argv)
-if __name__ == "main":
+if __name__ == "__main__":
 	main()
